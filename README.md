@@ -27,4 +27,4 @@ The notebooks related to this section also used exactly the codes and data set o
 
 ### 5. Text Classification
 This chapter includes the training of neural models for data classification, which are used in two ways for sentiment analysis.
-The notebooks related to this section have used the Kaggle data set mentioned in the previous section.
+The notebooks related to this section have used the Kaggle data set mentioned in section 3.
