@@ -28,3 +28,11 @@ The notebooks related to this section also used exactly the codes and data set o
 ### 5. Text Classification
 This chapter includes the training of neural models for data classification, which are used in two ways for sentiment analysis.
 The notebooks related to this section have used the Kaggle data set mentioned in section 3.
+
+### 6. Neural Language Modeling
+This chapter includes the development of character-base and Word-Based Neural Language Model and models for text generation.
+Notebooks in this section have used for analysis and generate poems. For this purpose, one of Kaggle's data sets was used at the address below.
+
+https://www.kaggle.com/datasets/michaelarman/poemsdataset
+
+
