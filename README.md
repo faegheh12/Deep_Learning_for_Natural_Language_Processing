@@ -35,4 +35,12 @@ Notebooks in this section have been used for analysis and to generate poems. For
 
 https://www.kaggle.com/datasets/michaelarman/poemsdataset
 
+### 7. Image Captioning
+This chapter includes the development of neural models to generate caption for photos using pre-trained VGG16 models. Also, the generated texts are evaluated using the BLEU score.
+The notebooks related to this section also used exactly the codes and data set of the book.
+
+### 8. Machine Translation
+This chapter includes the development of encoder-decoder models for neural machines translation (NMT). 
+The notebooks related to this section also used exactly the codes and data set of the book.
+
 
